@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lukaszgogala
+- 🌱 I’m currently learning PYTHON
+- 📫 How to reach me lukaszgogala@gmail.com, https://www.linkedin.com/in/lukasz-gogala/
